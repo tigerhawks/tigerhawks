@@ -1,0 +1,22 @@
+.u-section-1 {background-image: url("images/SHANTINIKETAN_SCHEDULE.jpg")}
+.u-section-1 .u-sheet-1 {min-height: 1900px} 
+
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 1397px} }
+
+@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 1105px} }
+
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 863px} }
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 595px} }.u-section-2 .u-sheet-1 {min-height: 137px}
+.u-section-2 .u-btn-1 {border-style: none; font-weight: 700; text-transform: uppercase; font-size: 3rem; letter-spacing: 2px; background-image: none; margin: 1px -165px; padding: 29px 507px 30px 506px} 
+
+@media (max-width: 1199px){ .u-section-2 .u-btn-1 {padding-right: 292px; padding-bottom: 29px; padding-left: 291px; margin: 0 -50px 2px} }
+
+@media (max-width: 991px){ .u-section-2 .u-sheet-1 {min-height: 108px}
+.u-section-2 .u-btn-1 {font-size: 1.875rem; padding-right: 262px; padding-left: 262px} }
+
+@media (max-width: 767px){ .u-section-2 .u-sheet-1 {min-height: 97px}
+.u-section-2 .u-btn-1 {font-size: 1.5rem; padding-right: 200px; padding-bottom: 30px; padding-left: 199px} }
+
+@media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 98px}
+.u-section-2 .u-btn-1 {padding-left: 99px; padding-right: 99px; padding-bottom: 29px} }
