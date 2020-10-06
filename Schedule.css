@@ -1,4 +1,4 @@
-.u-section-1 .u-sheet-1 {min-height: 1598px}
+.u-section-1 .u-sheet-1 {min-height: 1369px}
 .u-section-1 .u-btn-1 {border-style: solid; font-weight: 700; font-size: 0.9375rem; background-image: none; margin: 0 auto 0 0; padding: 16px 40px}
 .u-section-1 .u-btn-2 {background-image: none; border-style: solid; font-weight: 700; font-size: 0.9375rem; align-self: flex-end; margin: -56px 0 0 auto; padding: 16px 44px 16px 43px}
 .u-section-1 .u-text-1 {margin: 14px 0 0}
@@ -44,31 +44,16 @@
 .u-section-1 .u-table-cell-36 {background-image: none; font-size: 1.5rem}
 .u-section-1 .u-table-cell-37 {background-image: none; font-size: 1.25rem}
 .u-section-1 .u-table-cell-38 {background-image: none; font-size: 1.5rem}
-.u-section-1 .u-table-cell-39 {background-image: none; font-size: 1.5rem}
-.u-section-1 .u-table-cell-40 {background-image: none; font-size: 1.25rem}
-.u-section-1 .u-table-cell-41 {background-image: none; font-size: 1.5rem}
-.u-section-1 .u-table-cell-42 {background-image: none; font-size: 1.5rem}
-.u-section-1 .u-table-cell-43 {background-image: none; font-size: 1.25rem}
-.u-section-1 .u-table-cell-44 {background-image: none; font-size: 1.5rem}
-.u-section-1 .u-table-cell-45 {background-image: none; font-size: 1.5rem}
-.u-section-1 .u-table-cell-46 {background-image: none; font-size: 1.25rem}
-.u-section-1 .u-table-cell-47 {background-image: none; font-size: 1.5rem}
-.u-section-1 .u-table-cell-48 {background-image: none; font-size: 1.5rem}
-.u-section-1 .u-table-cell-49 {background-image: none; font-size: 1.25rem}
-.u-section-1 .u-table-cell-50 {background-image: none; font-size: 1.5rem}
-.u-section-1 .u-table-cell-51 {background-image: none; font-size: 1.5rem} 
+.u-section-1 .u-table-cell-39 {background-image: none; font-size: 1.5rem} 
 
-@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 1795px}
-.u-section-1 .u-btn-1 {align-self: center}
+@media (max-width: 1199px){ .u-section-1 .u-btn-1 {align-self: center}
 .u-section-1 .u-btn-3 {padding: 0}
-.u-section-1 .u-table-1 {margin-bottom: 41px; margin-right: initial; margin-left: initial} }
+.u-section-1 .u-table-1 {margin-right: initial; margin-left: initial} }
 
-@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 1759px} }
-
-@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 1840px}
+@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 1445px}
 .u-section-1 .u-text-1 {margin-top: 16px} }
 
-@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 1632px}
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 1397px}
 .u-section-1 .u-table-cell-5 {font-size: 1.125rem}
 .u-section-1 .u-table-cell-6 {font-size: 0.875rem}
 .u-section-1 .u-table-cell-8 {font-size: 1.125rem}
@@ -92,12 +77,4 @@
 .u-section-1 .u-table-cell-35 {font-size: 1.125rem}
 .u-section-1 .u-table-cell-36 {font-size: 0.875rem}
 .u-section-1 .u-table-cell-38 {font-size: 1.125rem}
-.u-section-1 .u-table-cell-39 {font-size: 0.875rem}
-.u-section-1 .u-table-cell-41 {font-size: 1.125rem}
-.u-section-1 .u-table-cell-42 {font-size: 0.875rem}
-.u-section-1 .u-table-cell-44 {font-size: 1.125rem}
-.u-section-1 .u-table-cell-45 {font-size: 0.875rem}
-.u-section-1 .u-table-cell-47 {font-size: 1.125rem}
-.u-section-1 .u-table-cell-48 {font-size: 0.875rem}
-.u-section-1 .u-table-cell-50 {font-size: 1.125rem}
-.u-section-1 .u-table-cell-51 {font-size: 0.875rem} }
+.u-section-1 .u-table-cell-39 {font-size: 0.875rem} }
